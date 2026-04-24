@@ -1,0 +1,18 @@
+{
+  "sesion_id": "sesion_aa427524_profesor",
+  "rol": "profesor",
+  "mensajes": [
+    {
+      "role": "user",
+      "content": "¿Cómo funciona la fotosíntesis?",
+      "timestamp": "2026-04-22T18:40:41.379203"
+    },
+    {
+      "role": "assistant",
+      "content": "¡Excelente elección! La fotosíntesis es el proceso por el que las plantas, algas y algunos hongos producen su propio alimento a partir del dióxido de carbono (CO2) y el agua (H2O). ¡Vamos a explorar este proceso paso a paso!\n\n**La fotosíntesis en resumen**\n------------------------\n\nLa fotosíntesis es un proceso que requiere energía, agua y dióxido de carbono para producir glucosa (azúcar) y oxígeno. La fórmula química más simple para la fotosíntesis es:\n\n6 CO2 + 6 H2O + luz → C6H12O6 (glucosa) + 6 O2\n\n**Paso 1: Absorción de la luz**\n-----------------------------\n\nLas plantas tienen estructuras llamadas cloroplastos en sus células, que contienen una pigmento llamado clorofila. La clorofila absorbe la energía de la luz solar (fotones) y utiliza esta energía para producir ATP (adenosín trifosfato) y NADPH.\n\n**Paso 2: Captura de dióxido de carbono**\n-----------------------------------\n\nLa planta captura el dióxido de carbono (CO2) desde el aire a través de pequeñas aberturas en las hojas llamadas estomas. El CO2 entra en la célula y se combina con el agua (H2O) para formar un compuesto químico llamado RuBP (ribulosa-5-fosfato).\n\n**Paso 3: Reducción de la energía**\n----------------------------------\n\nLa energía ATP y NADPH producida en el Paso 1 se utiliza para reducir el RuBP, lo que forma glucosa. Esta reacción es conocida como la ruta de los cloroplastos.\n\n**Paso 4: Producción de oxígeno**\n-------------------------------\n\nComo subproducto de la fotosíntesis, las plantas producen oxígeno (O2) y liberan el dióxido de carbono (CO2). El oxígeno se libera en el aire y es fundamental para la vida de muchos seres vivos, incluyendo a nosotros mismos.\n\n**Revisión**\n----------\n\nLa fotosíntesis es un proceso complejo que implica la absorción de luz, el captura del dióxido de carbono, la reducción de la energía y la producción de oxígeno. La glucosa producida se utiliza como alimento para las plantas, mientras que el oxígeno es liberado en el aire.\n\n**Ejercicio**\n----------\n\nPuedes verificar tu comprensión de la fotosíntesis respondiendo a esta pregunta:\n\n¿Qué dos sustancias principales son necesarias para la fotosíntesis? (Dióxido de carbono y agua)\n\n¡Espero que hayas disfrutado aprendiendo sobre la fotosíntesis!",
+      "timestamp": "2026-04-22T18:40:41.379987"
+    }
+  ],
+  "creada": "2026-04-22T18:40:41.379302",
+  "actualizada": "2026-04-22T18:40:41.385075"
+}

@@ -1,0 +1,18 @@
+{
+  "sesion_id": "sesion_be526a0e_negocios",
+  "rol": "negocios",
+  "mensajes": [
+    {
+      "role": "user",
+      "content": "que es contabilidad?",
+      "timestamp": "2026-04-23T16:26:28.465758"
+    },
+    {
+      "role": "assistant",
+      "content": "La contabilidad! Es el proceso de recopilar, clasificar y registrar la información financiera de una empresa para informar a los stakeholders (accionistas, inversores, credores, etc.) sobre su situación económica y financiera.\n\nEn resumen, la contabilidad es un sistema de registro y presentación de la información financiera que permite a las empresas:\n\n1. Monitorear y controlar sus finanzas.\n2. Informar a los stakeholders sobre su situación económica y financiera.\n3. Realizar análisis y toma de decisiones informadas.\n\nLa contabilidad incluye varias áreas, como:\n\n* Registro de transacciones (ventas, compras, pagos, etc.)\n* Creación de balance general y estado de resultados\n* Gestión del inventario y activos fijos\n* Manejo de impuestos y tributos\n* Preparación de informes financieros (informe anual, estados financieros, etc.)\n\nEn la era digital, la contabilidad ha evolucionado para incluir herramientas y software que facilitan el proceso, como:\n\n* Sistemas de gestión de flujos de caja (cash flow management)\n* Herramientas de análisis financiero (financial analytics)\n* Plataformas de contabilidad en la nube (cloud accounting)\n\nEn cuanto a las empresas startups, la contabilidad es especialmente importante para:\n\n1. Monitorear el uso de fondos y gestión del presupuesto.\n2. Informar a los inversores y accionistas sobre el desempeño financiero.\n3. Prepararse para futuras rondas de financiamiento o una posible salida (exit).\n\nEn resumen, la contabilidad es un proceso fundamental para cualquier empresa que desee entender y gestionar sus finanzas con éxito.",
+      "timestamp": "2026-04-23T16:26:28.466260"
+    }
+  ],
+  "creada": "2026-04-23T16:26:28.465758",
+  "actualizada": "2026-04-23T16:26:28.467775"
+}
